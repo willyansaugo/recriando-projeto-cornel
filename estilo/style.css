@@ -69,6 +69,8 @@
   }
 
   section.img {
+    padding-top: 100px;
+    padding-bottom: 100px;
     padding-left: 20px;
     font-family: var(--font-poema);
     background-color: rgba(0, 0, 0, 0.466);
